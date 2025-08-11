@@ -54,7 +54,7 @@ npm start
 4. **Apply Filters:** Select a **filter** to enhance the photos.
 5. **Download Photo Strip:** Once captured, click the **"Download"** button to save the final **photo strip** to your device.
 
-**Try it out live:** [PicaPica](https://picapicaa.netlify.app/).
+**Try it out live:**
 
 ## 🔧 Future Improvements
 - Add more filters (beautify, cute effects, and stickers)
